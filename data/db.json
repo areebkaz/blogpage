@@ -1,0 +1,28 @@
+{
+  "post": [
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "September 03, 2023 3:56:42 PM",
+      "body": "non optio! zxmciunt excepturi cor"
+    },
+    {
+      "id": 4,
+      "title": "MAASA",
+      "datetime": "September 03, 2023 9:35:05 PM",
+      "body": "ANSKA AKKA RAAOA\n"
+    },
+    {
+      "id": 5,
+      "title": "Project",
+      "datetime": "September 03, 2023 9:41:52 PM",
+      "body": "admsdlaada"
+    }
+  ]
+}
